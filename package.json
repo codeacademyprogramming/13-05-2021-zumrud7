@@ -1,0 +1,21 @@
+{
+  "name": "@zumrud/pyp-number-conversion-to-words",
+  "version": "1.0.0",
+  "description": "Numbers are converted to words in Azeri language",
+  "main": "app.js",
+  "scripts": {
+    "build": "echo \"App build\" && node app.js",
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeacademyprogramming/13-05-2021-zumrud7.git"
+  },
+  "author": "Zumrud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeacademyprogramming/13-05-2021-zumrud7/issues"
+  },
+  "homepage": "https://github.com/codeacademyprogramming/13-05-2021-zumrud7#readme"
+}
